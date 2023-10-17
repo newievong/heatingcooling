@@ -16,3 +16,5 @@ def heating_cooling(actual_temp, desired_temp):
 actual_temp = int(input("Enter the actual temperature: "))
 desired_temp = int(input("Enter the desired temperature: "))
 
+heating_cooling(actual_temp, desired_temp)
+
